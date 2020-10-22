@@ -1,0 +1,6 @@
+include ':moduled'
+include ':modulec'
+include ':moduleb'
+include ':base'
+include ':app'
+rootProject.name = "EmbedSampleApplication"
