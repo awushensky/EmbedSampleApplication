@@ -6,12 +6,12 @@ To reproduce,
 
 1. install `base` and `moduled`
 
-```
-./gradlew base:install
-./gradlew moduled:install
-```
+    ```
+    ./gradlew base:install
+    ./gradlew moduled:install
+    ```
 
-This will install the `base` and `moduled` modules into your local maven repository.
+    This will install the `base` and `moduled` modules into your local maven repository.
 
 2. Run the `app` application on your device.
 
@@ -25,8 +25,8 @@ This will install the `base` and `moduled` modules into your local maven reposit
 
 7. re-install moduled
 
-```
-./gradlew moduled:install
-```
+    ```
+    ./gradlew moduled:install
+    ```
 
 8. Run the application, note that the application crashes when the `Break Me` button is tapped.
