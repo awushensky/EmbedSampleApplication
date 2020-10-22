@@ -1,6 +1,8 @@
 # EmbedSampleApplication
 
-This application breaks when embed is > 1.2.16.
+![dependency_tree](docs/images/dependency_tree.png)
+
+This application breaks when [embed](https://github.com/kezong/fat-aar-android) is > 1.2.16.
 
 To reproduce,
 
